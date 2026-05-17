@@ -1,5 +1,8 @@
 # 💫 About Me:
-AI/ML engineer in the making — building real things, not just reading about them.<br> <br>My focus: Python, Machine Learning, and backend development, sharpened through hands-on projects and consistent problem-solving. I believe the best way to learn is to ship, break, and iterate.<br> <br>Currently deepening my foundations in ML and software engineering while documenting the journey through projects worth showing.<br> <br>Open to internships, collaborations, and opportunities where I can contribute, learn fast, and grow alongside people building meaningful things.
+I build machine learning systems from raw data to deployed endpoints.
+My work covers the full pipeline: data cleaning and feature  engineering, model training and comparison, evaluation beyond  accuracy, and serving models through REST APIs using FastAPI.
+Currently deepening: deployment patterns, feature engineering,  precision/recall tradeoffs, and ML pipeline architecture.
+Open to junior ML roles and internships focused on  production-oriented problems.
 
 
 ## 🌐 Socials:
