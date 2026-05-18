@@ -2,24 +2,15 @@
 
 ## 👦 About Me
 
-I’m a machine learning developer focused on building end-to-end projects, from raw data to working APIs.
+I build machine learning applications from raw data to deployed APIs.
+ 
+My work covers the full ML pipeline. I clean and prepare data, train and compare models, evaluate performance properly, and deploy models as usable apps and APIs.
+ 
+I focus on building real projects instead of experiments. Each project becomes a working application with a web interface and an API.
+ 
+Tools I work with: Python, Pandas, NumPy, Scikit-learn, FastAPI, Streamlit, Git.
 
-I work with the full ML workflow:
-- Data cleaning and preprocessing
-- Feature engineering and exploratory analysis
-- Training and comparing models using scikit-learn
-- Evaluating models using meaningful metrics beyond accuracy
-- Deploying models using FastAPI and simple web UIs like Streamlit
-
-Most of my experience comes from hands-on projects where I focus on understanding how models behave in real-world scenarios rather than just training them.
-
-Currently improving my skills in:
-- Feature engineering techniques
-- Model evaluation (precision, recall, tradeoffs)
-- Structuring production-style ML pipelines
-- Better deployment patterns for ML systems
-
-I’m looking for internships or junior ML roles where I can contribute to real projects and grow in production machine learning.
+If you are building real ML products and enjoy practical engineering, follow along or connect.
 ---
 
 ## 🧠 Tech Stack
