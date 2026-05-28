@@ -1,46 +1,57 @@
-# 👋 Hi, I'm Talib
+# 👋 Hi, I’m Talib
 
-## 👦 About Me
+I build end-to-end machine learning systems, from raw data to deployed applications.
+I focus on practical ML engineering: data preparation, model training, evaluation, and deployment as usable APIs and web apps.
 
-I build machine learning applications from raw data to deployed APIs.
- 
-My work covers the full ML pipeline. I clean and prepare data, train and compare models, evaluate performance properly, and deploy models as usable apps and APIs.
- 
-I focus on building real projects instead of experiments. Each project becomes a working application with a web interface and an API.
- 
-Tools I work with: Python, Pandas, NumPy, Scikit-learn, FastAPI, Streamlit, Git.
-
-If you are building real ML products and enjoy practical engineering, follow along or connect.
 ---
 
-## 🧠 Tech Stack
+## 🧠 What I do
+
+- Data cleaning and feature engineering on real-world datasets  
+- Training and evaluating ML models using Scikit-learn  
+- Building REST APIs for ML models with FastAPI  
+- Creating interactive apps using Streamlit  
+- Structuring ML projects for deployment, not just notebooks  
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Data & ML
+### Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge)
 
 ### Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
+## 📌 Featured Projects
+
+- **Sentify – Emotion Analytics Engine**  
+  NLP system for emotion classification with end-to-end pipeline and deployment
+
+- **House Price Prediction App**  
+  ML regression system with feature engineering and Streamlit interface
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=talibZaidii&theme=gotham&hide_border=false)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=talibZaidii&theme=gotham&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalibZaidii&show_icons=true&theme=default)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TalibZaidii&layout=compact)
