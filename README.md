@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Talib
+# 👋 Hi, I’m Talib Zaidi
 
 I build end-to-end machine learning systems, from raw data to deployed applications.
 I focus on practical ML engineering: data preparation, model training, evaluation, and deployment as usable APIs and web apps.
@@ -47,11 +47,3 @@ I focus on practical ML engineering: data preparation, model training, evaluatio
 
 - **House Price Prediction App**  
   ML regression system with feature engineering and Streamlit interface
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalibZaidii&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TalibZaidii&layout=compact)
